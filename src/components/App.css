@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Metropolis;
+    src: url(../../public/fonts/Metropolis-Bold.woff2) format("woff2");
+  }
+@font-face {
+    font-family: SF Pro;
+    src: url(../../public/fonts/sf-pro-text-regular.woff) format("woff");
+  }
+
+.bg-blue {
+    background-color: aquamarine;
+}
+
+.metro-font {
+    font-family: Metropolis;
+}
