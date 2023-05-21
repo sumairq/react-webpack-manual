@@ -1,10 +1,10 @@
 import React from 'react'
-import './App.css'
+import { newFont } from '../styles/FontStyle.js'
 
    const App = () => {
   return (
     <div>
-        <h1 className='bg-blue metro-font'>
+        <h1 className={newFont}>
             Sumair Qaisar
         </h1>
     </div>
