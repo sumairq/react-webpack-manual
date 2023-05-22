@@ -14,8 +14,8 @@ module.exports = {
         new HTMLWebpackPlugin({
             hash: true,
             title: 'My App',
-            template: './src/index.html',
-            filename: './dist/index.html'
+            template: './public/index.html',
+            filename: './dist/index.html',
         })
     ],
 
